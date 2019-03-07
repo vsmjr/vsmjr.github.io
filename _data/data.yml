@@ -1,0 +1,160 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
+    skills: False
+
+    # Profile information
+    name: Valdir Junior
+    tagline: Estudante de Sistemas de Informação
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: valdir.junior@dcomp.ufs.br
+    telegram: vsmjr
+    phone: 
+    website: valdirjr.dev #do not add http://
+    linkedin: valdirjr
+    github: vsmjr
+    gitlab:
+    bitbucket:
+    twitter: 
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Português
+        level: Nativo
+
+      - idiom: Inglês
+        level: Intermediário
+
+      - idiom: Espanhol
+        level: Básico
+
+    interests:
+      - item: Aviação
+        link:
+
+      - item: Tecnologia
+        link:
+
+      - item: Futebol
+        link:
+
+career-profile:
+    title: Sobre Mim
+    summary: |
+      Estudante de Sistemas de Informação pela Universidade Federal de Sergipe 
+      e Assessor de Qualidade da SofTeam. Apaixonado por aviação, futebol e tecnologia.
+      [download this free resume/CV template here]().
+
+education:
+    - degree: BSc in Computer Information Systems
+      university: Universidade Federal de Sergipe
+      time: 2017.1 - Atualmente
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+
+#          - Bullet point
+#          - Bullet point
+
+experiences:
+#    - role: Lead Developer
+#      time: 2015 - Present
+ #     company: Startup Hubs, San Francisco
+  #    details: |
+   #     Describe your role here lorem ipsum dolor sit amet, consectetuer
+    #    adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+     #   Cum sociis natoque penatibus et magnis dis parturient montes,
+      #  nascetur ridiculus mus. Donec quam felis, ultricies nec,
+       # pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+        #enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+        #error sit voluptatem accusantium doloremque laudantium, totam rem
+        #aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+        #architecto beatae vitae dicta sunt explicabo.
+#
+ #         - Bullet point
+  #        - Bullet point
+
+    - role: Assessor de Qualidade
+      time: 2018 - Atualmente
+      company: SofTeam - Empresa Junior de Computação, São Cristovão
+      details: |
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
+
+          - Bullet point
+          - Bullet point
+
+#projects:
+#    title: Projects
+#    intro: >
+#      You can list your side projects or open source libraries in this
+#      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#
+#    assignments:
+#      - title: Velocity
+#        link: "#hook"
+#        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+#
+#      - title: DevStudio
+#        link: "#"
+#        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+#publications:
+    #title: Publications
+    #intro: |
+    #  You can list your publications in this section. Lorem ipsum dolor sit
+    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+    #  bibendum fringilla a eu lectus.
+
+    #papers:
+    #  - title: The Art of Computer Programming
+    #    authors: Donald E. Knuth
+    #    conference: Addison-Wesley, 1968
+    #
+    #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+    #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+    #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+    #
+    #  - title: A syntax directed compiler for Algol 60
+    #    authors: Edgar T. Irons
+    #    conference: "Comm. ACM 4 (1961), 51–55"
+
+skills:
+    title: Habilidades
+
+    toolset:
+      - name: C
+        level: 30%
+
+      - name: Java
+        level: 30%
+
+      - name: Python
+        level: 25%
+
+      - name: GSuite
+        level: 70%
+
+      - name: Pipefy
+        level: 60%
+
+      - name: Git
+        level: 20%
+
+footer: >
+    Feito com <i class="fas fa-heart"></i> por Valdir Junior e <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
