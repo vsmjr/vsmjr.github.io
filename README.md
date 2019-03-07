@@ -1,2 +1,0 @@
-# vsmjr.github.io
-site
