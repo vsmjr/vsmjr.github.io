@@ -6,7 +6,7 @@ site
 <img src="https://img.shields.io/badge/featured%20on-JT-red.svg" height="20" alt="My Resume Site" >
 </a>
 
- <a href="https://www.vsmjr.github.io">
+ <a href="https://vsmjr.github.io">
   My Resume Site
  </a> 
 
