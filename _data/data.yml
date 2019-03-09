@@ -37,10 +37,13 @@ sidebar:
         level: Básico
 
     interests:
-      - item: Aviação
+      - item: Gestão
         link:
 
       - item: Tecnologia
+        link:
+
+      - item: Aviação
         link:
 
       - item: Futebol
@@ -49,20 +52,21 @@ sidebar:
 career-profile:
     title: Sobre Mim
     summary: |
-      Estudante de Sistemas de Informação pela Universidade Federal de Sergipe 
-      e Assessor de Qualidade da SofTeam. Apaixonado por aviação, futebol e tecnologia.
-      [download this free resume/CV template here]().
+      Estudante de Sistemas de Informação pela Universidade Federal de Sergipe, 
+      Estagiário do Colégio Pró-Mundo e Assessor de Qualidade da SofTeam. 
+      Apaixonado por gestão, tecnologia, aviação e futebol.
+    #  [download this free resume/CV template here]().
 
 education:
-    - degree: BSc in Computer Information Systems
+    - degree: Bacharelado em Sistemas de Informação
       university: Universidade Federal de Sergipe
       time: 2017.1 - Atualmente
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+#        Describe your study here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+#        sociis natoque penatibus et magnis dis parturient montes, nascetur
+#        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+#        pretium quis, sem.
 
 #          - Bullet point
 #          - Bullet point
@@ -86,17 +90,30 @@ experiences:
   #        - Bullet point
 
     - role: Assessor de Qualidade
-      time: 2018 - Atualmente
+      time: 11/2018 - Atualmente
       company: SofTeam - Empresa Junior de Computação, São Cristovão
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+#          - Bullet point
+#          - Bullet point
+
+    - role: Estagiário
+      time: 03/2019 - Atualmente
+      company: Colégio Pró-Mundo, Aracaju
+      details: |
+#        Describe your role here lorem ipsum dolor sit amet, consectetuer
+#        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+#        Cum sociis natoque penatibus et magnis dis parturient montes,
+#        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+#        pellentesque eu, pretium quis, sem.
+
+#          - Bullet point
+#          - Bullet point
 
 #projects:
 #    title: Projects
@@ -151,10 +168,11 @@ skills:
         level: 70%
 
       - name: Pipefy
-        level: 60%
+        level: 40%
 
       - name: Git
         level: 20%
 
 footer: >
-    Feito com <i class="fas fa-heart"></i> por Valdir Junior e <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Feito com <i class="fas fa-heart"></i> e Jekyll por Valdir Junior. 
+#    e <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
